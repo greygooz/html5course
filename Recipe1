@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+        <body>
+            <h1>Wake-Me-Up Omlette</h1>
+            <h3>Ingredients Required</h3>
+            
+            <ul>
+                <li>3 Eggs</li>
+                <li>Hot Salsa (the hotter the better)</li>
+                <li>Sharp Cheddar Cheese</li>
+                <li>Crumbled Bacon</li>
+            </ul>
+            
+            <h3>Now Put it All Together.</h3>
+            
+            <ol>
+                <li>Scramble eggs and pour into non-stick skillet on med-high.</li>
+                <li>Allow the eggs to cook on one side then flip the eggs over using a spatula (this takes some practice).</li>
+                <li>Pour in cheese (to your taste).</li>
+                <li>Add bacon crumbles (to your taste).</li>
+                <li>Using the spatula, scoop the right half of the omlette over so it covers the cheese and bacon. </li>
+                <li>Cook a few more minutes until cheese is melted.</li>
+                <li>Put on a plate and pour over hot salsa then serve.</li>
+            </ol>
+    
+        </body>
+<html>
